@@ -1,0 +1,33 @@
+.users {
+    float: left;
+    width: 75%;
+}
+
+.registerNewUserPanel {
+    float: left;
+    width: 35%;
+}
+
+.inviteUserPanel {
+    float: left;
+}
+
+.app {
+    display: flex;
+}
+
+.column {
+    float: left;
+    width: 50%;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.errors {
+    color: red;
+}
