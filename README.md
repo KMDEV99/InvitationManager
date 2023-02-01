@@ -1,4 +1,4 @@
-# Invitation Manager - Evojam
+# Invitation Manager
 
 ## Table of content
 * [General Information](#general-information)
@@ -8,9 +8,7 @@
 
 
 ## General Information
-Application created for Evojam. 
-
-Contains basic admin management panel done in React since I heard You use it. I use generally Angular, and it shows. 
+Contains basic admin management panel done in React. I generally use Angular, and it shows. 
 
 Decided to try it anyway.
 
